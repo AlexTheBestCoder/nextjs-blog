@@ -30,7 +30,7 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/images/profile.jpg"
+              src="/images/profile.JPG"
               className={utilStyles.borderCircle}
               style={{ objectFit: 'cover'}}
               height={144}
